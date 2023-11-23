@@ -207,7 +207,8 @@
 ## **💻 Technology**
 
 ## 🔍 System Architecture
-![image](https://github.com/nohy6630/readme_test/assets/129354455/6f0322dd-2f0b-4621-be98-81292f73eb58)
+![대피로 서비스 아키텍쳐](https://github.com/kusitms-com/28th_Meetup_TeamG_Daepiro_front/assets/129354455/3c606d99-e054-4a59-9724-43a99811ebee)
+
 
 ## 💻 기술 스택
 - Android
