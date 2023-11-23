@@ -249,7 +249,7 @@
       <br>
       
     + 재난 상황 및 동네 안전 정보 공유가 가능한 커뮤니티
-      ![기능3](./image/function3.png)
+      ![기능3](./image/function3_1.png)
       
       <br>
       
