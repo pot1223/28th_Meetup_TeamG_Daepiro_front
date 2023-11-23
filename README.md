@@ -1,7 +1,7 @@
 
 # 🌟 서비스명
 
-![메인 이미지](./image/Evacuation_main.jpg)
+![메인 이미지](./image/main_image.jpg)
 
 <br>
 
